@@ -1,5 +1,4 @@
 
-````md
 # 🧠 TaskManager API
 
 A simple and modern .NET 9 Web API to manage personal tasks.  
